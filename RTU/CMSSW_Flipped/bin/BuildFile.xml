@@ -1,6 +1,6 @@
 <use name="root"/>
 <use name="roofit"/>
-<use name="RTU/Flipped"/>
+<use name="RTU/CMSSW_Flipped"/>
 <use name="cfat"/>
 <environment>
 <bin name="flipped_analysis" file="flipped_analysis.cc"></bin>
