@@ -1,0 +1,17 @@
+<use name="root"/>
+<use name="roofit"/>
+<use name="rootrflx"/>
+<use name="PhysicsTools/PatAlgos"/>
+<use name="CondFormats/BTauObjects"/>
+<use name="CondFormats/JetMETObjects"/>
+<use name="CondTools/BTau"/>
+<use name="TopQuarkAnalysis/TopTools"/>
+<use name="rivet"/>
+<use name="fastjet"/>
+<use name="fastjet-contrib"/>
+<use name="cfat"/>
+<Flags CXXFLAGS="-ggdb"/>
+
+<export>
+  <lib name="1"/>
+</export>
